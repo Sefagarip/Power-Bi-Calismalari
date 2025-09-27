@@ -57,8 +57,6 @@ pip install pandas sqlalchemy datafc pyodbc
 ## ⚠️ Notlar
 
 - MSSQL bağlantı bilgilerinizi scriptlerde güncelleyiniz
-- Futbol API kullanımı için gerekli izinleri alınız
-- Power BI raporları için uygun lisans gereklidir
 
 ## 📈 Analiz Kapsamı
 
