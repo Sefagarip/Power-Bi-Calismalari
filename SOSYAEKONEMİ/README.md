@@ -1,7 +1,9 @@
 ## 📊 Power BI Rapor Görüntüleri
 
 ### Ana Dashboard - Sosyoekonomik Harita
-![Sosyoekonomik Dashboard 1](Ekran%20görüntüsü%202025-09-27%20141158.jpg)
+![Image](https://github.com/user-attachments/assets/253d7ee5-7bc9-4477-8cc0-c0e15e3c6837)
 
-### Siyasi Parti Karşılaştırması
-![Sosyoekonomik Dashboard 2](Ekran%20görüntüsü%202025-09-27%20141536.jpg)
+### İlçe Görünümü 
+![Image](https://github.com/user-attachments/assets/98eba6b3-19ef-4c6c-b816-cc3c9e0879d1)
+
+
